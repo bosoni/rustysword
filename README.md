@@ -1,5 +1,6 @@
 Rusty Sword 
-by mjt [mixut@hotmail.com]
+by mjt
+
 Freeware
 
 Small java game.
